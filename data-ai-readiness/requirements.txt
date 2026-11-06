@@ -1,0 +1,5 @@
+# Woche 1–8: keine Drittanbieter-Pakete erforderlich.
+# Mögliche optionale Lernmodule nach Bedarf:
+# duckdb
+# dbt-duckdb
+# pyspark

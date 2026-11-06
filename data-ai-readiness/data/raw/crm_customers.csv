@@ -1,0 +1,8 @@
+customer_id,company_name,country,account_manager,consent_marketing
+C-001,Alpha Maschinen GmbH,DE,AM-01,true
+C-002,Beta Technik AG,DE,AM-02,false
+C-003,Gamma Industrie KG,AT,AM-01,true
+C-004,Delta Komponenten GmbH,DE,AM-03,true
+C-005,Epsilon Tools GmbH,DE,AM-02,false
+C-006,Zeta Automation AG,CH,AM-04,true
+C-007,Alpha Maschinen GMBH,DE,AM-03,true

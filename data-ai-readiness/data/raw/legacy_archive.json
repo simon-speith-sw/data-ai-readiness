@@ -1,0 +1,26 @@
+[
+  {
+    "record_id": "L-001",
+    "path": "/archive/contracts/2018_customer_terms.pdf",
+    "content_type": "pdf",
+    "last_modified": "2018-08-22",
+    "retention_status": "review_required",
+    "business_value": "historical_reference"
+  },
+  {
+    "record_id": "L-002",
+    "path": "/archive/pricing/old_prices_2019.xlsx",
+    "content_type": "xlsx",
+    "last_modified": "2019-04-18",
+    "retention_status": "review_required",
+    "business_value": "low"
+  },
+  {
+    "record_id": "L-003",
+    "path": "/archive/manuals/controller_c2_v1.pdf",
+    "content_type": "pdf",
+    "last_modified": "2020-12-01",
+    "retention_status": "review_required",
+    "business_value": "superseded"
+  }
+]

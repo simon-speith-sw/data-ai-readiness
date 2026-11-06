@@ -1,0 +1,7 @@
+product_id,product_name,currency,unit_price,valid_from,valid_to
+P-100,Industrial Sensor X1,EUR,180.00,2026-01-01,2026-12-31
+P-200,Controller C2,EUR,450.00,2026-01-01,2026-12-31
+P-300,Pump Unit P3,EUR,1200.00,2026-01-01,2026-12-31
+P-200,Controller C2,EUR,455.00,2026-01-01,2026-12-31
+P-400,Maintenance Kit M4,EUR,,2026-01-01,2026-12-31
+P-500,Legacy Motor L5,EUR,-50.00,2026-01-01,2026-06-30
