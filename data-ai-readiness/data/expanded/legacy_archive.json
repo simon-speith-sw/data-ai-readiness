@@ -1,0 +1,1602 @@
+[
+  {
+    "record_id": "A-0001",
+    "path": "/archive/2018/akte_0001.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0002",
+    "path": "/archive/2019/akte_0002.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0003",
+    "path": "/archive/2020/akte_0003.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0004",
+    "path": "/archive/2021/akte_0004.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0005",
+    "path": "/archive/2022/akte_0005.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0006",
+    "path": "/archive/2023/akte_0006.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0007",
+    "path": "/archive/2024/akte_0007.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0008",
+    "path": "/archive/2017/akte_0008.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0009",
+    "path": "/archive/2018/akte_0009.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0010",
+    "path": "/archive/2019/akte_0010.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0011",
+    "path": "/archive/2020/akte_0011.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0012",
+    "path": "/archive/2021/akte_0012.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0013",
+    "path": "/archive/2022/akte_0013.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0014",
+    "path": "/archive/2023/akte_0014.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0015",
+    "path": "/archive/2024/akte_0015.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0016",
+    "path": "/archive/2017/akte_0016.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0017",
+    "path": "/archive/2018/akte_0017.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0018",
+    "path": "/archive/2019/akte_0018.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0019",
+    "path": "/archive/2020/akte_0019.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0020",
+    "path": "/archive/2021/akte_0020.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0021",
+    "path": "/archive/2022/akte_0021.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0022",
+    "path": "/archive/2023/akte_0022.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0023",
+    "path": "/archive/2024/akte_0023.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0024",
+    "path": "/archive/2017/akte_0024.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0025",
+    "path": "/archive/2018/akte_0025.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0026",
+    "path": "/archive/2019/akte_0026.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0027",
+    "path": "/archive/2020/akte_0027.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0028",
+    "path": "/archive/2021/akte_0028.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0029",
+    "path": "/archive/2022/akte_0029.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0030",
+    "path": "/archive/2023/akte_0030.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0031",
+    "path": "/archive/2024/akte_0031.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0032",
+    "path": "/archive/2017/akte_0032.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0033",
+    "path": "/archive/2018/akte_0033.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0034",
+    "path": "/archive/2019/akte_0034.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0035",
+    "path": "/archive/2020/akte_0035.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0036",
+    "path": "/archive/2021/akte_0036.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0037",
+    "path": "/archive/2022/akte_0037.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0038",
+    "path": "/archive/2023/akte_0038.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0039",
+    "path": "/archive/2024/akte_0039.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0040",
+    "path": "/archive/2017/akte_0040.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0041",
+    "path": "/archive/2018/akte_0041.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0042",
+    "path": "/archive/2019/akte_0042.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0043",
+    "path": "/archive/2020/akte_0043.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0044",
+    "path": "/archive/2021/akte_0044.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0045",
+    "path": "/archive/2022/akte_0045.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0046",
+    "path": "/archive/2023/akte_0046.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0047",
+    "path": "/archive/2024/akte_0047.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0048",
+    "path": "/archive/2017/akte_0048.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0049",
+    "path": "/archive/2018/akte_0049.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0050",
+    "path": "/archive/2019/akte_0050.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0051",
+    "path": "/archive/2020/akte_0051.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0052",
+    "path": "/archive/2021/akte_0052.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0053",
+    "path": "/archive/2022/akte_0053.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0054",
+    "path": "/archive/2023/akte_0054.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0055",
+    "path": "/archive/2024/akte_0055.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0056",
+    "path": "/archive/2017/akte_0056.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0057",
+    "path": "/archive/2018/akte_0057.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0058",
+    "path": "/archive/2019/akte_0058.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0059",
+    "path": "/archive/2020/akte_0059.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0060",
+    "path": "/archive/2021/akte_0060.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0061",
+    "path": "/archive/2022/akte_0061.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0062",
+    "path": "/archive/2023/akte_0062.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0063",
+    "path": "/archive/2024/akte_0063.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0064",
+    "path": "/archive/2017/akte_0064.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0065",
+    "path": "/archive/2018/akte_0065.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0066",
+    "path": "/archive/2019/akte_0066.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0067",
+    "path": "/archive/2020/akte_0067.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0068",
+    "path": "/archive/2021/akte_0068.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0069",
+    "path": "/archive/2022/akte_0069.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0070",
+    "path": "/archive/2023/akte_0070.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0071",
+    "path": "/archive/2024/akte_0071.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0072",
+    "path": "/archive/2017/akte_0072.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0073",
+    "path": "/archive/2018/akte_0073.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0074",
+    "path": "/archive/2019/akte_0074.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0075",
+    "path": "/archive/2020/akte_0075.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0076",
+    "path": "/archive/2021/akte_0076.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0077",
+    "path": "/archive/2022/akte_0077.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0078",
+    "path": "/archive/2023/akte_0078.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0079",
+    "path": "/archive/2024/akte_0079.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0080",
+    "path": "/archive/2017/akte_0080.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0081",
+    "path": "/archive/2018/akte_0081.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0082",
+    "path": "/archive/2019/akte_0082.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0083",
+    "path": "/archive/2020/akte_0083.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0084",
+    "path": "/archive/2021/akte_0084.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0085",
+    "path": "/archive/2022/akte_0085.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0086",
+    "path": "/archive/2023/akte_0086.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0087",
+    "path": "/archive/2024/akte_0087.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0088",
+    "path": "/archive/2017/akte_0088.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0089",
+    "path": "/archive/2018/akte_0089.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0090",
+    "path": "/archive/2019/akte_0090.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0091",
+    "path": "/archive/2020/akte_0091.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0092",
+    "path": "/archive/2021/akte_0092.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0093",
+    "path": "/archive/2022/akte_0093.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0094",
+    "path": "/archive/2023/akte_0094.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0095",
+    "path": "/archive/2024/akte_0095.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0096",
+    "path": "/archive/2017/akte_0096.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0097",
+    "path": "/archive/2018/akte_0097.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0098",
+    "path": "/archive/2019/akte_0098.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0099",
+    "path": "/archive/2020/akte_0099.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0100",
+    "path": "/archive/2021/akte_0100.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0101",
+    "path": "/archive/2022/akte_0101.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0102",
+    "path": "/archive/2023/akte_0102.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0103",
+    "path": "/archive/2024/akte_0103.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0104",
+    "path": "/archive/2017/akte_0104.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0105",
+    "path": "/archive/2018/akte_0105.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0106",
+    "path": "/archive/2019/akte_0106.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0107",
+    "path": "/archive/2020/akte_0107.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0108",
+    "path": "/archive/2021/akte_0108.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0109",
+    "path": "/archive/2022/akte_0109.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0110",
+    "path": "/archive/2023/akte_0110.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0111",
+    "path": "/archive/2024/akte_0111.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0112",
+    "path": "/archive/2017/akte_0112.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0113",
+    "path": "/archive/2018/akte_0113.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0114",
+    "path": "/archive/2019/akte_0114.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0115",
+    "path": "/archive/2020/akte_0115.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0116",
+    "path": "/archive/2021/akte_0116.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0117",
+    "path": "/archive/2022/akte_0117.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0118",
+    "path": "/archive/2023/akte_0118.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0119",
+    "path": "/archive/2024/akte_0119.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0120",
+    "path": "/archive/2017/akte_0120.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0121",
+    "path": "/archive/2018/akte_0121.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0122",
+    "path": "/archive/2019/akte_0122.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0123",
+    "path": "/archive/2020/akte_0123.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0124",
+    "path": "/archive/2021/akte_0124.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0125",
+    "path": "/archive/2022/akte_0125.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0126",
+    "path": "/archive/2023/akte_0126.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0127",
+    "path": "/archive/2024/akte_0127.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0128",
+    "path": "/archive/2017/akte_0128.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0129",
+    "path": "/archive/2018/akte_0129.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0130",
+    "path": "/archive/2019/akte_0130.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0131",
+    "path": "/archive/2020/akte_0131.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0132",
+    "path": "/archive/2021/akte_0132.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0133",
+    "path": "/archive/2022/akte_0133.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0134",
+    "path": "/archive/2023/akte_0134.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0135",
+    "path": "/archive/2024/akte_0135.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0136",
+    "path": "/archive/2017/akte_0136.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0137",
+    "path": "/archive/2018/akte_0137.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0138",
+    "path": "/archive/2019/akte_0138.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0139",
+    "path": "/archive/2020/akte_0139.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0140",
+    "path": "/archive/2021/akte_0140.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0141",
+    "path": "/archive/2022/akte_0141.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0142",
+    "path": "/archive/2023/akte_0142.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0143",
+    "path": "/archive/2024/akte_0143.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0144",
+    "path": "/archive/2017/akte_0144.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0145",
+    "path": "/archive/2018/akte_0145.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0146",
+    "path": "/archive/2019/akte_0146.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0147",
+    "path": "/archive/2020/akte_0147.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0148",
+    "path": "/archive/2021/akte_0148.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0149",
+    "path": "/archive/2022/akte_0149.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0150",
+    "path": "/archive/2023/akte_0150.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0151",
+    "path": "/archive/2024/akte_0151.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0152",
+    "path": "/archive/2017/akte_0152.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0153",
+    "path": "/archive/2018/akte_0153.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0154",
+    "path": "/archive/2019/akte_0154.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0155",
+    "path": "/archive/2020/akte_0155.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0156",
+    "path": "/archive/2021/akte_0156.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0157",
+    "path": "/archive/2022/akte_0157.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0158",
+    "path": "/archive/2023/akte_0158.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0159",
+    "path": "/archive/2024/akte_0159.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0160",
+    "path": "/archive/2017/akte_0160.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0161",
+    "path": "/archive/2018/akte_0161.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0162",
+    "path": "/archive/2019/akte_0162.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0163",
+    "path": "/archive/2020/akte_0163.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0164",
+    "path": "/archive/2021/akte_0164.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0165",
+    "path": "/archive/2022/akte_0165.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0166",
+    "path": "/archive/2023/akte_0166.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0167",
+    "path": "/archive/2024/akte_0167.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0168",
+    "path": "/archive/2017/akte_0168.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0169",
+    "path": "/archive/2018/akte_0169.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0170",
+    "path": "/archive/2019/akte_0170.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0171",
+    "path": "/archive/2020/akte_0171.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0172",
+    "path": "/archive/2021/akte_0172.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0173",
+    "path": "/archive/2022/akte_0173.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0174",
+    "path": "/archive/2023/akte_0174.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0175",
+    "path": "/archive/2024/akte_0175.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0176",
+    "path": "/archive/2017/akte_0176.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0177",
+    "path": "/archive/2018/akte_0177.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0178",
+    "path": "/archive/2019/akte_0178.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0179",
+    "path": "/archive/2020/akte_0179.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0180",
+    "path": "/archive/2021/akte_0180.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0181",
+    "path": "/archive/2022/akte_0181.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0182",
+    "path": "/archive/2023/akte_0182.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0183",
+    "path": "/archive/2024/akte_0183.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0184",
+    "path": "/archive/2017/akte_0184.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0185",
+    "path": "/archive/2018/akte_0185.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0186",
+    "path": "/archive/2019/akte_0186.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0187",
+    "path": "/archive/2020/akte_0187.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0188",
+    "path": "/archive/2021/akte_0188.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0189",
+    "path": "/archive/2022/akte_0189.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0190",
+    "path": "/archive/2023/akte_0190.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0191",
+    "path": "/archive/2024/akte_0191.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0192",
+    "path": "/archive/2017/akte_0192.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0193",
+    "path": "/archive/2018/akte_0193.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2018-06-01",
+    "retention_status": "review",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0194",
+    "path": "/archive/2019/akte_0194.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2019-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0195",
+    "path": "/archive/2020/akte_0195.pdf",
+    "content_type": "invoice",
+    "last_modified": "2020-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0196",
+    "path": "/archive/2021/akte_0196.pdf",
+    "content_type": "contract",
+    "last_modified": "2021-06-01",
+    "retention_status": "unknown",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0197",
+    "path": "/archive/2022/akte_0197.pdf",
+    "content_type": "product_spec",
+    "last_modified": "2022-06-01",
+    "retention_status": "review",
+    "business_value": "unknown"
+  },
+  {
+    "record_id": "A-0198",
+    "path": "/archive/2023/akte_0198.pdf",
+    "content_type": "duplicate",
+    "last_modified": "2023-06-01",
+    "retention_status": "legal_hold",
+    "business_value": "high"
+  },
+  {
+    "record_id": "A-0199",
+    "path": "/archive/2024/akte_0199.pdf",
+    "content_type": "invoice",
+    "last_modified": "2024-06-01",
+    "retention_status": "expired_candidate",
+    "business_value": "medium"
+  },
+  {
+    "record_id": "A-0200",
+    "path": "/archive/2017/akte_0200.pdf",
+    "content_type": "contract",
+    "last_modified": "2017-06-01",
+    "retention_status": "unknown",
+    "business_value": "unknown"
+  }
+]
